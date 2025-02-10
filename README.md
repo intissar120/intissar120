@@ -12,9 +12,9 @@ Bienvenue sur mon profil GitHub, où vous trouverez une collection de mes projet
 - 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/intissar-el-qadi-00b908307/) 
 
 ## 💼 Mes compétences
-
 - **Langages** : Python, JavaScript, HTML & CSS, SQL, PHP, Java
-- **Outils** : GitHub, Visual Studio Code, MySQL
+- **Frameworks** : Angular
+- **Outils** : GitHub, Visual Studio Code, IntelliJ IDEA, PyCharm, WebStorm, CLion, Laragon
 - **Base de données** : MySQL
 
 ## 🌍 Langues
