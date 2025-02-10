@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub, où vous trouverez une collection de mes projet
 - 🔭 Actuellement en 2ème année en développement web.
 - 🌱 Je me spécialise dans le développement web, mais j'explore également des concepts liés aux bases de données et au développement logiciel.
 - 💬 Je suis passionnée par la création de sites web responsives, l'optimisation de l'expérience utilisateur et la gestion de bases de données.
-- 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/intissar-el-qadi-00b908307/) |  [Email](intissar.elqadi@gmail.com)
+- 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/intissar-el-qadi-00b908307/) 
 
 ## 💼 Mes compétences
 
