@@ -12,11 +12,28 @@ Bienvenue sur mon profil GitHub, où vous trouverez une collection de mes projet
 - 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/intissar-el-qadi-00b908307/) 
 
 ## 💼 Mes compétences
-- **Langages** : Python, JavaScript, HTML & CSS, SQL, PHP, Java
-- **Frameworks** : Angular
-- **Outils** : GitHub, Visual Studio Code, IntelliJ IDEA, PyCharm, WebStorm, CLion, Laragon
-- **Base de données** : MySQL
+### Langages de programmation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
+### Frameworks et Bibliothèques
+![Angular](https://img.shields.io/badge/Angular-E23237?style=flat&logo=angular&logoColor=white)
+
+### Outils
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0071F2?style=flat&logo=laragon&logoColor=white)
+
+### Base de données
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ## 🌍 Langues
 
 - **Français** : Courant
